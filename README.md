@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">Full Stack Developer from Germany. A mature team worker and adaptable to all challenging situations. Curiosity in learning new things. Try to develop things from scratch in other word, Passionate to Develop.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shariful4447" alt="shariful4447" /></a> </p>
 
 - 🌱 I’m currently increasing my Knowledge on **Javascript(React,Node,Angular)**
 
