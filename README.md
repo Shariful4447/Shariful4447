@@ -66,7 +66,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shariful4447&label=Profile%20views&color=bc4720&style=flat" alt="Shariful4447" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shariful4447&theme=onedark" alt="Shariful4447" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shariful4447&theme=gruvbox" alt="Shariful4447" /></a> </p>
 
 # 📊GitHub Stats :
 
