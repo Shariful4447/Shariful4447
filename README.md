@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif)
 
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">Full Stack Developer from Germany. A mature team worker and adaptable to all challenging situations. Curiosity in learning new things. Try to develop things from scratch in other word, Passionate to Develop.</h3>
