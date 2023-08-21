@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">Full Stack Developer from Germany. A mature team worker and adaptable to all challenging situations. Curiosity in learning new things. Try to develop things from scratch in other word, Passionate to Develop.</h3>
 
-
 - 🌱 I’m currently increasing my Knowledge on **Javascript(React,Node,Angular)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shariful4447](https://github.com/Shariful4447)
@@ -64,7 +63,7 @@
 
 #### Profile Views
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shariful4447&label=Profile%20views&color=bc4720&style=flat" alt="Shariful4447" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shariful4447&label=Profile%20views&color=0b8e25&style=flat" alt="Shariful4447" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shariful4447&theme=gruvbox" alt="Shariful4447" /></a> </p>
 
