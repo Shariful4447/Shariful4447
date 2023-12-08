@@ -32,6 +32,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://universitycourse.netlify.app/">University Course Registration</a></td>
+      <td>Create a Website for universities student to registration of their semester courses</td>
+      <td>University Achivement</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Shariful4447/fullstack-result-system">Full Stack Result Syystem</a></td>
       <td>Create a Website for universities student to get their result and feedback easily</td>
       <td>University Achivement</td>
