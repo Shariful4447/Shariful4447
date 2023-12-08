@@ -37,6 +37,16 @@
       <td>University Achivement</td>
     </tr>
     <tr>
+      <td><a href="https://devsolc.netlify.app/">Create a DevSolc Website Protfolio</a></td>
+      <td>A Website protfolio to represent company DevSolc among their Customer</td>
+      <td>Team Achivement</td>
+    </tr>
+    <tr>
+      <td><a href="https://musicplayersorter.netlify.app/">Music Storage Sorter</a></td>
+      <td>A Website where listener can find their Music List</td>
+      <td>Team Achivement</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Shariful4447/fullstack-result-system">Full Stack Result Syystem</a></td>
       <td>Create a Website for universities student to get their result and feedback easily</td>
       <td>University Achivement</td>
