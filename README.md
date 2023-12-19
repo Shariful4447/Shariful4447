@@ -57,6 +57,11 @@
       <td>Get apreciation and very good mark From university Professor</td>
     </tr>
     <tr>
+      <td><a href="https://shariful4447.github.io/assignment3-fruit-brust-with-tailwind-daisyUI/" target="_blank">Fruit Burst/Juice Shop</a></td>
+      <td>Making Websites focusing on FrontEnd</td>
+      <td>Get apreciation from owner</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Shariful4447/Human-Ethnicity-Detection-Using-Facial-Image" target="_blank">Ethinicity Identification Using facial Recognation</a></td>
       <td>AI powered Detection totaly depend on opencv and algorithm </td>
       <td>Get Highest grades </td>
