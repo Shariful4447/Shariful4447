@@ -67,6 +67,11 @@
       <td>Get Highest grades </td>
     </tr>
     <tr>
+      <td><a href="https://shariful4447.github.io/Assignment-1-flower-shop/" target="_blank">Flower Shop FrontEnd Design</a></td>
+      <td>Flower shop for client shop</td>
+      <td>Get appreciation from client </td>
+    </tr>
+    <tr>
       <td>Diu Student Portal</td>
       <td>Making a portal by which every student can interact with university main Portal</td>
       <td>Gets Highest grades</td>
