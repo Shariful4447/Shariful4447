@@ -37,6 +37,11 @@
       <td>University Achivement</td>
     </tr>
     <tr>
+      <td><a href="https://e-shop-0.netlify.app/">Eshop E-commerce Website</a></td>
+      <td>Create a Website using react and tailwind css for e-commerce</td>
+      <td>Personal Achivement</td>
+    </tr>
+    <tr>
       <td><a href="https://devsolc.netlify.app/">Create a DevSolc Website Protfolio</a></td>
       <td>A Website protfolio to represent company DevSolc among their Customer</td>
       <td>Team Achivement</td>
