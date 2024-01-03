@@ -42,6 +42,12 @@
       <td>Personal Achivement</td>
     </tr>
     <tr>
+      <td><a href="https://admin-panel-shariful-islam.netlify.app/">Admin Panel with react + tailwind</a></td>
+      <td>Create a admin panel which is possible to integrate with any website</td>
+      <td>Personal Achivement</td>
+    </tr>
+    
+    <tr>
       <td><a href="https://donation-collecter.netlify.app/">Donation Collector</a></td>
       <td>Create a Website using react for Unprevileged People</td>
       <td>Project Achivement</td>
