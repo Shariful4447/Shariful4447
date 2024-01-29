@@ -42,6 +42,11 @@
       <td>Personal Achivement</td>
     </tr>
     <tr>
+      <td><a href="https://e-shop-0.netlify.app/">Coffe shop with Authentication</a></td>
+      <td>Create a Website using react and tailwind css for coffee shop fully functioning backend</td>
+      <td>Personal Achivement</td>
+    </tr>
+    <tr>
       <td><a href="https://admin-panel-shariful-islam.netlify.app/">Admin Panel with react + tailwind</a></td>
       <td>Create a admin panel which is possible to integrate with any website</td>
       <td>Personal Achivement</td>
