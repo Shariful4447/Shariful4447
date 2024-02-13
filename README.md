@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shariful4447](https://github.com/Shariful4447)
 - 👨‍💻 Here Is my personal Portfolio :  [Shariful Islam](https://shariful-islam-protfolio.netlify.app/)
-- 💬 Ask me about **react, node & vue js**
+
 
 
 <h3 align="left">Connect with me:</h3>
