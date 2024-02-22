@@ -32,6 +32,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://my-resturant-foddy.netlify.app/">My Foody Boss</a></td>
+      <td>Create a Website for resturent mangement to control the ordering and manegemnt process of a resturant</td>
+      <td>Personal Skill Development</td>
+    </tr>
+    <tr>
       <td><a href="https://universitycourse.netlify.app/">University Course Registration</a></td>
       <td>Create a Website for universities student to registration of their semester courses</td>
       <td>University Achivement</td>
