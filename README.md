@@ -32,8 +32,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://my-resturant-foddy.netlify.app/">My Foody Boss</a></td>
-      <td>Create a Website for resturent mangement to control the ordering and manegemnt process of a resturant</td>
+      <td><a href="https://food-boss-8e13b.web.app/">My Foody Boss</a></td>
+      <td>Create a full stack Website for resturent mangement to control the ordering, Payment with stripe and manegement process of a resturant</td>
       <td>Personal Skill Development</td>
     </tr>
     <tr>
