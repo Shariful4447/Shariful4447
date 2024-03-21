@@ -57,7 +57,7 @@
       <td>Personal Achivement</td>
     </tr>
     <tr>
-      <td><a href="https://admin-panel-shariful-islam.netlify.app/">Car Garage Website</a></td>
+      <td><a href="">Car Garage Website</a></td>
       <td>Create a website for car mechanics to maintained differnt operation</td>
       <td>Personal Achivement</td>
     </tr>
