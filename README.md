@@ -77,6 +77,11 @@
       <td>Team Achivement</td>
     </tr>
     <tr>
+      <td><a href="">Dark Pattern Detection Mern Stack Project</a></td>
+      <td>A Tools that will detect all kind of Falsy design pattern which is used to manipulate Customer.</td>
+      <td>Team Achivement</td>
+    </tr>
+    <tr>
       <td><a href="https://musicplayersorter.netlify.app/">Music Storage Sorter</a></td>
       <td>A Website where listener can find their Music List</td>
       <td>Team Achivement</td>
