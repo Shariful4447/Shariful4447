@@ -114,7 +114,7 @@
     <tr>
       <td><a href="https://shariful4447.github.io/Assignment-2-Gamer-Zone/">Gamer Zone FrontEnd Design</td>
       <td>Making a Game portal for promoting games</td>
-      <td>Gets Highest grades</td>
+      <td>Gets Highest grades on performance</td>
     </tr>
     
   </tbody>
