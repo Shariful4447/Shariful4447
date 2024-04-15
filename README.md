@@ -47,6 +47,11 @@
       <td>University Achivement</td>
     </tr>
     <tr>
+      <td><a href="">Travel Plan Websites</a></td>
+      <td>Create a Website for maintaing tour management system</td>
+      <td>Personal Achivement</td>
+    </tr>
+    <tr>
       <td><a href="https://e-shop-0.netlify.app/">Eshop E-commerce Website</a></td>
       <td>Create a Website using react and tailwind css for e-commerce</td>
       <td>Personal Achivement</td>
