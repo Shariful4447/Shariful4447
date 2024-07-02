@@ -98,8 +98,8 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Shariful4447/Pizza_app_By_PostGreSQL" target="_blank">Pizza Baker Website</a></td>
-      <td>Making Websites focusing on Postgresql Database</td>
-      <td>Get apreciation and very good mark From university Professor</td>
+      <td>Making Websites focusing on Postgresql Database to run the university operation smoothly.</td>
+      <td>Getciation and very good mark From university Professor</td>
     </tr>
     <tr>
       <td><a href="https://shariful4447.github.io/assignment3-fruit-brust-with-tailwind-daisyUI/" target="_blank">Fruit Burst/Juice Shop</a></td>
