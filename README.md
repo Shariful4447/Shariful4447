@@ -113,12 +113,12 @@
     </tr>
     <tr>
       <td><a href="https://shariful4447.github.io/Assignment-1-flower-shop/" target="_blank">Flower Shop FrontEnd Design</a></td>
-      <td>Flower shop for client shop</td>
+      <td>Flower shop for client shop.</td>
       <td>Get appreciation from client </td>
     </tr>
     <tr>
       <td><a href="https://shariful4447.github.io/Assignment-2-Gamer-Zone/">Gamer Zone FrontEnd Design</td>
-      <td>Making a Game portal for where people can see the game details also buy and sell game profiles</td>
+      <td>Making a Game portal for where people can see the game details also buy and sell game profiles.</td>
       <td>Gets Highest grades on performance</td>
     </tr>
     
