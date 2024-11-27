@@ -109,7 +109,7 @@
     <tr>
       <td><a href="https://github.com/Shariful4447/Human-Ethnicity-Detection-Using-Facial-Image" target="_blank">Ethinicity Identification Using facial Recognation</a></td>
       <td>AI powered Detection totaly depend on opencv and algorithm </td>
-      <td>Get Highest grades </td>
+      <td>Get Highest grades in the semester</td>
     </tr>
     <tr>
       <td><a href="https://shariful4447.github.io/Assignment-1-flower-shop/" target="_blank">Flower Shop FrontEnd Design</a></td>
