@@ -103,7 +103,7 @@
     </tr>
     <tr>
       <td><a href="https://shariful4447.github.io/assignment3-fruit-brust-with-tailwind-daisyUI/" target="_blank">Fruit Burst/Juice Shop</a></td>
-      <td>Making Websites focusing on FrontEnd</td>
+      <td>Making Websites focusing on FrontEnd for eshop</td>
       <td>Get apreciation from owner</td>
     </tr>
     <tr>
