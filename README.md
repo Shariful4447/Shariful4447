@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td><a href="https://donation-collecter.netlify.app/">Donation Collector</a></td>
-      <td>Create a Website using react for Unprevileged People</td>
+      <td>Create a Website using reactJS for Unprevileged People</td>
       <td>Project Achivement</td>
     </tr>
     <tr>
