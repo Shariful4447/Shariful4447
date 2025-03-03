@@ -1,6 +1,6 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif)
 
-<h1 align="center">Hi 👋, I'm Shariful Islam</h1>
+<h1 align="center">Hi 👋, I'm Shariful Islam.</h1>
 <h3 align="center">Full Stack Developer from Germany. A mature team worker and adaptable to all challenging situations. Curiosity in learning new things. Try to develop things from scratch in other word, Passionate to Develop.</h3>
 
 - 🌱 I’m currently increasing my Knowledge on **Javascript(React,Node,Angular)**
